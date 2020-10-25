@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraScript
+    - EnemyScript
     - PlayerScript
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
@@ -13,15 +14,20 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    - Packages.Rider.Editor.UnitTesting.SyncTestRunEventsHandler
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - TestRunner.Callbacks.WindowResultUpdaterDataHolder
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
+    - UnityEditor.TestTools.TestRunner.RerunCallbackData
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     - UnityEditor.TestTools.TestRunner.TestRunnerWindow
@@ -52,7 +58,19 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 62
       Script: {instanceID: 0}
+    - Class: 70
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -67,13 +85,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12804}
     - Class: 114
-      Script: {instanceID: 13948}
+      Script: {instanceID: 13920}
     - Class: 114
-      Script: {instanceID: 14396}
+      Script: {instanceID: 13950}
     - Class: 114
-      Script: {instanceID: 15030}
+      Script: {instanceID: 14398}
     - Class: 114
-      Script: {instanceID: 15054}
+      Script: {instanceID: 15032}
+    - Class: 114
+      Script: {instanceID: 15056}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -205,7 +225,7 @@ ScriptsOnlyBuild:
     className: GridLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: bbc2dc7662197b704fded12c0b77f70a
+      Hash: f7d6315e55cd674d9fa9a0610801c8db
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerScript
@@ -415,6 +435,12 @@ ScriptsOnlyBuild:
     className: SignalReceiver
   - hash:
       serializedVersion: 2
+      Hash: e08dc097b830ae769e9cdd9b04e903ac
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnemyScript
+  - hash:
+      serializedVersion: 2
       Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -596,4 +622,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/jorda/OneDrive/Desktop/Platformer_Tilemapping/Platformer_Tilemapping/Builds/Platformer_Tilemapping.exe
+  playerPath: C:/Users/jorda/OneDrive/Desktop/Platformer_Tilemapping/Platformer_Tilemapping/Builds/Barrott_Jordan_DIG3480_Challenge2/Platformer_Tilemapping.exe

@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -44,11 +44,11 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1536
-    height: 731
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+    height: 730.8
+  m_MinSize: {x: 677, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 45
+  controlID: 78
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,10 +64,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1058
+    x: 1058.4
     y: 0
-    width: 478
-    height: 731
+    width: 477.59998
+    height: 730.8
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
@@ -92,10 +92,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 347
-    height: 433
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+    width: 345.6
+    height: 432.8
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -118,8 +118,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 433
-    width: 1058
+    y: 432.8
+    width: 1058.4
     height: 298
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -150,7 +150,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1536
-    height: 781
+    height: 780.8
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -198,7 +198,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 761
+    y: 760.8
     width: 1536
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -222,12 +222,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1058
-    height: 731
-  m_MinSize: {x: 403, y: 492}
+    width: 1058.4
+    height: 730.8
+  m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 19
+  controlID: 79
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -247,12 +247,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1058
-    height: 433
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+    width: 1058.4
+    height: 432.8
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 20
+  controlID: 80
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,10 +268,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 347
+    x: 345.6
     y: 0
-    width: 711
-    height: 433
+    width: 712.80005
+    height: 432.8
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -301,14 +301,14 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 347.2
+    x: 345.6
     y: 73.6
-    width: 709.2
+    width: 710.80005
     height: 411.8
   m_ViewDataDictionary: {fileID: 0}
   m_ViewTransforms:
     m_KeySerializationHelper:
-    - {fileID: -7409275712895679388, guid: 76799ca2754f93b498a8c3907480225a, type: 2}
+    - {fileID: -3870486309088440759, guid: 5b8408836be3d364dba6c205c452fb11, type: 2}
     m_ValueSerializationHelper:
     - e00: 1
       e01: 0
@@ -327,9 +327,9 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 76799ca2754f93b498a8c3907480225a, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 5b8408836be3d364dba6c205c452fb11, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: -7409275712895679388, guid: 76799ca2754f93b498a8c3907480225a, type: 2}
+  - m_Target: {fileID: -3870486309088440759, guid: 5b8408836be3d364dba6c205c452fb11, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
@@ -362,18 +362,18 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 7.2000003
-    y: 80.8
-    width: 546.2
-    height: 403
+    x: 0
+    y: 73.6
+    width: 345
+    height: 412
   m_ViewDataDictionary: {fileID: 0}
   m_Spl:
-    ID: 12284
+    ID: 1415
     splitterInitialOffset: 0
     currentActiveSplitter: -1
     realSizes:
-    - 249.59999
-    - 83.2
+    - 256
+    - 85.600006
     relativeSizes:
     - 0.75
     - 0.25
@@ -383,7 +383,7 @@ MonoBehaviour:
     maxSizes:
     - 0
     - 0
-    lastTotalSize: 332.8
+    lastTotalSize: 341.6
     splitSize: 6
     xOffset: 0
     m_Version: 1
@@ -395,13 +395,13 @@ MonoBehaviour:
   m_PlayModeTestListGUI:
     m_Window: {fileID: 13}
     newResultList:
-    - id: 1009
-      uniqueId: '[t1-f20][suite]'
-      name: t1-f20
-      fullName: t1-f20
-      resultStatus: 2
-      duration: 23.07913
-      messages: One or more child tests had errors
+    - id: 1000
+      uniqueId: '[Platformer_Tilemapping][suite]'
+      name: Platformer_Tilemapping
+      fullName: Platformer_Tilemapping
+      resultStatus: 1
+      duration: 0.0055536
+      messages: 
       output: 
       stacktrace: 
       notRunnable: 0
@@ -411,352 +411,6 @@ MonoBehaviour:
       categories: []
       parentId: 
       parentUniqueId: 
-    - id: 1016
-      uniqueId: '[PlayTests.dll][suite]'
-      name: PlayTests.dll
-      fullName: D:/Docs/WORK/School/DIG 3480/Roll a Ball/dig3480-f20-t1-JBarrott/Library/ScriptAssemblies/PlayTests.dll
-      resultStatus: 2
-      duration: 23.037292
-      messages: One or more child tests had errors
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1009
-      parentUniqueId: '[t1-f20][suite]'
-    - id: 1017
-      uniqueId: PlayTests.dll/[PlayTests][Tests][suite]
-      name: Tests
-      fullName: Tests
-      resultStatus: 2
-      duration: 23.032461
-      messages: One or more child tests had errors
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1016
-      parentUniqueId: '[PlayTests.dll][suite]'
-    - id: 1010
-      uniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTests][suite]
-      name: RollABallTests
-      fullName: Tests.RollABallTests
-      resultStatus: 1
-      duration: 13.304932
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1017
-      parentUniqueId: PlayTests.dll/[PlayTests][Tests][suite]
-    - id: 1011
-      uniqueId: PlayTests.dll/Tests/RollABallTests/[PlayTests][Tests.RollABallTests.TestCameraControllerPresent]
-      name: TestCameraControllerPresent
-      fullName: Tests.RollABallTests.TestCameraControllerPresent
-      resultStatus: 1
-      duration: 2.357107
-      messages: 
-      output: '(7.9, 0.5, 7.9)
-
-'
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1010
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTests][suite]
-    - id: 1012
-      uniqueId: PlayTests.dll/Tests/RollABallTests/[PlayTests][Tests.RollABallTests.TestPhysicsSetup]
-      name: TestPhysicsSetup
-      fullName: Tests.RollABallTests.TestPhysicsSetup
-      resultStatus: 1
-      duration: 0.1515808
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1010
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTests][suite]
-    - id: 1013
-      uniqueId: PlayTests.dll/Tests/RollABallTests/[PlayTests][Tests.RollABallTests.TestPlayerControls]
-      name: TestPlayerControls
-      fullName: Tests.RollABallTests.TestPlayerControls
-      resultStatus: 1
-      duration: 6.9375353
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1010
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTests][suite]
-    - id: 1014
-      uniqueId: PlayTests.dll/Tests/RollABallTests/[PlayTests][Tests.RollABallTests.TestPlayerDoesntFall]
-      name: TestPlayerDoesntFall
-      fullName: Tests.RollABallTests.TestPlayerDoesntFall
-      resultStatus: 1
-      duration: 3.6585512
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1010
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTests][suite]
-    - id: 1015
-      uniqueId: PlayTests.dll/Tests/RollABallTests/[PlayTests][Tests.RollABallTests.TestPlayerExists]
-      name: TestPlayerExists
-      fullName: Tests.RollABallTests.TestPlayerExists
-      resultStatus: 1
-      duration: 0.1781822
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1010
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTests][suite]
-    - id: 1001
-      uniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsPickups][suite]
-      name: RollABallTestsPickups
-      fullName: Tests.RollABallTestsPickups
-      resultStatus: 1
-      duration: 5.294126
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1013
-      parentUniqueId: PlayTests.dll/[PlayTests][Tests][suite]
-    - id: 1002
-      uniqueId: PlayTests.dll/Tests/RollABallTestsPickups/[PlayTests][Tests.RollABallTestsPickups.TestPickupConfiguration]
-      name: TestPickupConfiguration
-      fullName: Tests.RollABallTestsPickups.TestPickupConfiguration
-      resultStatus: 1
-      duration: 1.0405672
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1001
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsPickups][suite]
-    - id: 1003
-      uniqueId: PlayTests.dll/Tests/RollABallTestsPickups/[PlayTests][Tests.RollABallTestsPickups.TestPickUpRemoved]
-      name: TestPickUpRemoved
-      fullName: Tests.RollABallTestsPickups.TestPickUpRemoved
-      resultStatus: 1
-      duration: 2.1248217
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1001
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsPickups][suite]
-    - id: 1004
-      uniqueId: PlayTests.dll/Tests/RollABallTestsPickups/[PlayTests][Tests.RollABallTestsPickups.TestPickUpsHaveTag]
-      name: TestPickUpsHaveTag
-      fullName: Tests.RollABallTestsPickups.TestPickUpsHaveTag
-      resultStatus: 1
-      duration: 1.0547533
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1001
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsPickups][suite]
-    - id: 1005
-      uniqueId: PlayTests.dll/Tests/RollABallTestsPickups/[PlayTests][Tests.RollABallTestsPickups.TestRotatorPresent]
-      name: TestRotatorPresent
-      fullName: Tests.RollABallTestsPickups.TestRotatorPresent
-      resultStatus: 1
-      duration: 1.0449259
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1001
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsPickups][suite]
-    - id: 1006
-      uniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsScoring][suite]
-      name: RollABallTestsScoring
-      fullName: Tests.RollABallTestsScoring
-      resultStatus: 2
-      duration: 4.4241824
-      messages: One or more child tests had errors
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1017
-      parentUniqueId: PlayTests.dll/[PlayTests][Tests][suite]
-    - id: 1008
-      uniqueId: PlayTests.dll/Tests/RollABallTestsScoring/[PlayTests][Tests.RollABallTestsScoring.TestScoreOnCollide]
-      name: TestScoreOnCollide
-      fullName: Tests.RollABallTestsScoring.TestScoreOnCollide
-      resultStatus: 1
-      duration: 2.159559
-      messages: 
-      output: '0
-
-'
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1006
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsScoring][suite]
-    - id: 1007
-      uniqueId: PlayTests.dll/Tests/RollABallTestsScoring/[PlayTests][Tests.RollABallTestsScoring.TestScorePresent]
-      name: TestScorePresent
-      fullName: Tests.RollABallTestsScoring.TestScorePresent
-      resultStatus: 1
-      duration: 0.1133621
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1006
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsScoring][suite]
-    - id: 1009
-      uniqueId: PlayTests.dll/Tests/RollABallTestsScoring/[PlayTests][Tests.RollABallTestsScoring.TestWinText]
-      name: TestWinText
-      fullName: Tests.RollABallTestsScoring.TestWinText
-      resultStatus: 2
-      duration: 2.140283
-      messages: "  Expected: True\r\n  But was:  False\r\n"
-      output: 
-      stacktrace: 'at Tests.RollABallTestsScoring+<TestWinText>d__2.MoveNext () [0x00148]
-        in D:\Docs\WORK\School\DIG 3480\Roll a Ball\dig3480-f20-t1-JBarrott\Assets\Tests\Runtime\TestScoring.cs:69
-
-        at
-        UnityEngine.TestTools.TestEnumerator+<Execute>d__5.MoveNext () [0x00038]
-        in D:\Docs\WORK\School\DIG 3480\Roll a Ball\dig3480-f20-t1-JBarrott\Library\PackageCache\com.unity.test-framework@1.1.16\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:31
-
-'
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Uncategorized
-      parentId: 1006
-      parentUniqueId: PlayTests.dll/Tests/[PlayTests][Tests.RollABallTestsScoring][suite]
-    - id: 1020
-      uniqueId: '[Unity.InputSystem.IntegrationTests][D:/Docs/WORK/School/DIG 3480/Roll
-        a Ball/dig3480-f20-t1-JBarrott/Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll][suite]'
-      name: Unity.InputSystem.IntegrationTests.dll
-      fullName: D:/Docs/WORK/School/DIG 3480/Roll a Ball/dig3480-f20-t1-JBarrott/Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll
-      resultStatus: 1
-      duration: 0.0146562
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1009
-      parentUniqueId: '[t1-f20][suite]'
-    - id: 1018
-      uniqueId: Unity.InputSystem.IntegrationTests.dll/[Unity.InputSystem.IntegrationTests][IntegrationTests][suite]
-      name: IntegrationTests
-      fullName: IntegrationTests
-      resultStatus: 1
-      duration: 0.0103749
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 1
-      categories: []
-      parentId: 1020
-      parentUniqueId: '[Unity.InputSystem.IntegrationTests][D:/Docs/WORK/School/DIG
-        3480/Roll a Ball/dig3480-f20-t1-JBarrott/Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll][suite]'
-    - id: 1019
-      uniqueId: Unity.InputSystem.IntegrationTests.dll/IntegrationTests/[Unity.InputSystem.IntegrationTests][IntegrationTests.Integration_CanSendAndReceiveEvents]
-      name: Integration_CanSendAndReceiveEvents
-      fullName: IntegrationTests.Integration_CanSendAndReceiveEvents
-      resultStatus: 1
-      duration: 0.0075483
-      messages: 
-      output: 
-      stacktrace: 
-      notRunnable: 0
-      ignoredOrSkipped: 0
-      description: 
-      isSuite: 0
-      categories:
-      - Integration
-      parentId: 1018
-      parentUniqueId: Unity.InputSystem.IntegrationTests.dll/[Unity.InputSystem.IntegrationTests][IntegrationTests][suite]
     m_ResultText: 'RollABallTestsScoring (4.424s)
 
       ---
@@ -768,7 +422,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 0f44edc1
       m_LastClickedID: -1041415153
-      m_ExpandedIDs: 050048895efec199baca32c78c1e39dfc881b01e0664c953ffffff7f
+      m_ExpandedIDs: 050048895efec199baca32c7913526c88c1e39dfc881b01e0664c953ffffff7f
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -793,7 +447,6 @@ MonoBehaviour:
       m_SearchString: 
       selectedCategoryMask: 0
       availableCategories:
-      - Integration
       - Uncategorized
   m_EditModeTestListGUI:
     m_Window: {fileID: 13}
@@ -868,7 +521,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 506.4
-    width: 1057
+    width: 1057.4
     height: 277
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -884,21 +537,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Palettes
+    - Assets
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Palettes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jorda\OneDrive\Desktop\Platformer_Tilemapping\Platformer_Tilemapping
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 903c0000
-    m_LastClickedID: 15504
-    m_ExpandedIDs: 00000000883c000000ca9a3b
+    m_SelectedIDs: f43d0000
+    m_LastClickedID: 15860
+    m_ExpandedIDs: 00000000f43d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -926,7 +579,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000883c0000
+    m_ExpandedIDs: 00000000f43d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -970,7 +623,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 3}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1004,8 +657,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1058.4
     y: 73.6
-    width: 477
-    height: 710
+    width: 476.59998
+    height: 709.8
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -1042,15 +695,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73.6
-    width: 346
-    height: 412
+    width: 344.6
+    height: 411.8
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 16e3ffff2ee3ffffd8e3ffff96f4ffff5cfbffffe63b0000f03b0000
+      m_ExpandedIDs: ded3fffff6d3ffffa0d4ffff40f5ffff56f5ffffcaf5ffffd8f5ffffeef5ffff62f6ffff70f6ffff88f6fffffcf6ffff5cfbffff1e3c0000e65600001c580000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1094,10 +747,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 347.2
+    x: 345.6
     y: 73.6
-    width: 709
-    height: 412
+    width: 710.80005
+    height: 411.8
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
@@ -1110,9 +763,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 201.5, y: 191, z: -8.5}
+    m_Target: {x: -5.3571143, y: 1.5608839, z: -32.20426}
     speed: 2
-    m_Value: {x: 201.5, y: 191, z: -8.5}
+    m_Value: {x: -5.3571143, y: 1.5608839, z: -32.20426}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1163,9 +816,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 285.60376
+    m_Target: 4.433129
     speed: 2
-    m_Value: 285.60376
+    m_Value: 4.433129
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1210,10 +863,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 347.2
+    x: 345.6
     y: 73.6
-    width: 709
-    height: 412
+    width: 710.80005
+    height: 411.8
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -1221,7 +874,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 709, y: 391}
+  m_TargetSize: {x: 710.80005, y: 390.8}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1236,10 +889,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -283.6
-    m_HBaseRangeMax: 283.6
-    m_VBaseRangeMin: -156.40001
-    m_VBaseRangeMax: 156.40001
+    m_HBaseRangeMin: -284.32004
+    m_HBaseRangeMax: 284.32004
+    m_VBaseRangeMin: -156.31999
+    m_VBaseRangeMax: 156.31999
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1257,23 +910,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 709
-      height: 391
+      width: 710.80005
+      height: 390.8
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 354.5, y: 195.5}
+    m_Translation: {x: 355.40002, y: 195.4}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -354.5
-      y: -195.5
-      width: 709
-      height: 391
+      x: -355.40002
+      y: -195.4
+      width: 710.80005
+      height: 390.8
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 886.25, y: 515}
+  m_LastWindowPixelSize: {x: 888.50006, y: 514.75}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
