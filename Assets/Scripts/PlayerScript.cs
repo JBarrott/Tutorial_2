@@ -109,7 +109,7 @@ public class PlayerScript : MonoBehaviour
             {
             if (livesValue <= 0)
                 {
-                    Destroy(playerGameObject);
+                    transform.position = new Vector3(24.0f, 23.0f, 0.0f);
                     winText.text = "You Lose";
                     nameText.text = "Game created by Jordan Barrott";
                 }
